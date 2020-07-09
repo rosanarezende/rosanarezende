@@ -10,15 +10,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rosanarezende.com@gmail.com)](mailto:rosanarezende.com@gmail.com)
 
 </div>
-<br>
 
 ## Olá 👋
 
 Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por tecnologia e programação.
 
 > :octocat: [https://rosanarezende.github.io/portfolio/](https://rosanarezende.github.io/portfolio/)
-
-<br>
 
 ## Techs :blue_heart: 
 
