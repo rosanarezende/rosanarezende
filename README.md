@@ -11,8 +11,6 @@
 
 </div>
 
-## Olá 👋
-
 Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por tecnologia e programação.
 
 > :octocat: [https://rosanarezende.github.io/portfolio/](https://rosanarezende.github.io/portfolio/)
