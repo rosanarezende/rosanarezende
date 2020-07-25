@@ -19,6 +19,11 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 
 - HTML, CSS, JavaScript, TypeScript, Python, SQL, **React.js**, Node.js e mais.
 
+## Minha semana
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--
 **rosanarezende/rosanarezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
