@@ -23,11 +23,11 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 46 mins    ███████████░░░░░░░░░░░░░░   46.63 % 
-TypeScript   1 hr 11 mins    ████████░░░░░░░░░░░░░░░░░   31.63 % 
-JSON         44 mins         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+JavaScript   2 hrs 44 mins   █████████████░░░░░░░░░░░░   51.72 % 
+TypeScript   1 hr 31 mins    ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+JSON         56 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 <!--END_SECTION:waka-->
 
