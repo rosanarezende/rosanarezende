@@ -23,10 +23,10 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 
 <!--START_SECTION:waka-->
 ```text
-Ruby   30 hrs 5 mins   ███████████████████████▒░   92.69 % 
-ERB    1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-CSV    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-JSON   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Ruby   29 hrs 25 mins  ███████████████████████░░   92.56 % 
+ERB    1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+CSV    14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+JSON   12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 Text   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ```
 <!--END_SECTION:waka-->
