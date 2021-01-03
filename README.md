@@ -8,17 +8,17 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rosanarezende.com@gmail.com)](mailto:rosanarezende.com@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rosanarezende_)](https://twitter.com/rosanarezende_)
 
-</div>
-
 Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por tecnologia e programação.
 
 > :octocat: [https://rosanarezende.github.io/portfolio/](https://rosanarezende.github.io/portfolio/)
+
+</div>
 
 ## Techs :blue_heart: 
 
 <div align="center">
   
-  <p>HTML, CSS, JavaScript, TypeScript, Python, Ruby | SQL, **React**, Vue, Angular, Rails, Node.js e mais.</p>
+  <p>HTML, CSS, JavaScript, <strong>TypeScript</strong>, Python, Ruby | SQL, Node.js | <strong>React</strong>, Vue, Angular, Rails | e mais.</p>
 
   <a href="https://github.com/rosanarezende/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_title=true" />
