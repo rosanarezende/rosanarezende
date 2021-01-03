@@ -24,7 +24,7 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
  
 
   <a href="https://github.com/rosanarezende/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_title=true&hide_rank=true" />
   </a>
 
 
