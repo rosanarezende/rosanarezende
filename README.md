@@ -17,7 +17,11 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 
 ## Techs :blue_heart: 
 
-- HTML, CSS, JavaScript, TypeScript, Python, SQL, **React.js**, Node.js e mais.
+- HTML, CSS, JavaScript, TypeScript, Python, Ryby, SQL, **React.js**, Node.js e mais.
+
+<a href="https://github.com/rosanarezende/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_title=true" />
+</a>
 
 ## Minha semana
 
