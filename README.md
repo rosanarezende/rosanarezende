@@ -2,6 +2,9 @@
 
 <div align="center">
   
+[![about.me](https://img.shields.io/static/v1?label=about.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://about.me/rncabral)
+[![ricardo@isnotworking.com](https://img.shields.io/static/v1?label=ricardo@isnotworking.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:ricardo@isnotworking.com)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosanarezende/)](https://www.linkedin.com/in/rosanarezende/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)](https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rosanarezende)](https://t.me/rosanarezende)
@@ -13,22 +16,21 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 > :octocat: [https://rosanarezende.github.io/portfolio/](https://rosanarezende.github.io/portfolio/)
 
 </div>
-
+  
 ## Techs :blue_heart: 
-
-<div align="center">
   
   <p>HTML, CSS, JavaScript, <strong>TypeScript</strong>, Python, Ruby | SQL, Node.js | <strong>React</strong>, Vue, Angular, Rails | e mais.</p>
 
+  
+### Minha semana
+
   <a href="https://github.com/rosanarezende/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_title=true" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact" />
   </a>
 
-</div>
 
-## Minha semana
 <!--
-[![rosanarezende's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosanarezende)](https://github.com/rosanarezende/github-readme-stats)
+[![rosanarezende's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosanarezende&layout=compact)](https://github.com/rosanarezende/github-readme-stats)
 -->
 
 <!--START_SECTION:waka-->
