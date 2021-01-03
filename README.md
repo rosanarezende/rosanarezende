@@ -2,12 +2,11 @@
 
 <div align="center">
   
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/rosanarezende)](https://github.com/rosanarezende)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosanarezende/)](https://www.linkedin.com/in/rosanarezende/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rosanarezende_)](https://twitter.com/rosanarezende_)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)](https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rosanarezende)](https://t.me/rosanarezende)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rosanarezende.com@gmail.com)](mailto:rosanarezende.com@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rosanarezende_)](https://twitter.com/rosanarezende_)
 
 </div>
 
@@ -17,11 +16,15 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 
 ## Techs :blue_heart: 
 
-- HTML, CSS, JavaScript, TypeScript, Python, Ruby | SQL, **React**, Vue, Angular, Rails, Node.js e mais.
+<div align="center">
+  
+  <p>HTML, CSS, JavaScript, TypeScript, Python, Ruby | SQL, **React**, Vue, Angular, Rails, Node.js e mais.</p>
 
-<a href="https://github.com/rosanarezende/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_title=true" />
-</a>
+  <a href="https://github.com/rosanarezende/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_title=true" />
+  </a>
+
+</div>
 
 ## Minha semana
 <!--
