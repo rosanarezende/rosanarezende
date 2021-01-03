@@ -24,6 +24,9 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 </a>
 
 ## Minha semana
+<!--
+[![rosanarezende's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosanarezende)](https://github.com/rosanarezende/github-readme-stats)
+-->
 
 <!--START_SECTION:waka-->
 ```text
