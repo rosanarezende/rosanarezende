@@ -31,8 +31,7 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 ### Minha semana
 <!--START_SECTION:waka-->
 ```text
-Other        10 hrs 15 mins  ████████████████████████▓   98.77 % 
-Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
