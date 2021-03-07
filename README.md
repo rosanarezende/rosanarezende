@@ -31,10 +31,10 @@ Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por te
 ### Minha semana
 <!--START_SECTION:waka-->
 ```text
-JavaScript   3 hrs 27 mins   ███████████████░░░░░░░░░░   60.24 % 
-Other        2 hrs           ████████▓░░░░░░░░░░░░░░░░   34.77 % 
-Markdown     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+JavaScript   3 hrs 27 mins   ██████████████████▒░░░░░░   72.91 % 
+Other        1 hr            █████▒░░░░░░░░░░░░░░░░░░░   21.04 % 
+Markdown     14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+HTML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
 ```
 <!--END_SECTION:waka-->
 
