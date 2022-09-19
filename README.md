@@ -18,26 +18,18 @@
   
   <p align="center">HTML, CSS, JavaScript, <strong>TypeScript</strong>, Python, Ruby | SQL, Node.js | <strong>React</strong>, Vue, Angular, Rails | e mais.</p>
 
+<!--
+
   <a href="https://github.com/rosanarezende/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_rank=true&custom_title=Mais Usadas&card_width=350" />
   </a>
 
-<!--
 [![rosanarezende's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosanarezende&layout=compact)](https://github.com/rosanarezende/github-readme-stats)
 -->
 
-<!--
-
-### Minha semana
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
--->
-
 
 <!--
+
 **rosanarezende/rosanarezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
