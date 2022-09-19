@@ -10,9 +10,7 @@
 [![about.me](https://img.shields.io/static/v1?label=About.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://about.me/rosanarezende)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rosanarezende_)](https://twitter.com/rosanarezende_)
 
-Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por tecnologia e programação.
-
-> :octocat: [https://rosanarezende.github.io/portfolio/](https://rosanarezende.github.io/portfolio/)
+:octocat: Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por tecnologia e programação.
 
 </div>
   
