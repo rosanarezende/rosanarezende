@@ -26,12 +26,15 @@
 [![rosanarezende's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosanarezende&layout=compact)](https://github.com/rosanarezende/github-readme-stats)
 -->
 
+<!--
+
 ### Minha semana
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
+-->
 
 
 <!--
