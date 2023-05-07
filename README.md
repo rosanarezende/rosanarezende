@@ -4,19 +4,16 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosanarezende/)](https://www.linkedin.com/in/rosanarezende/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)](https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rosanarezende)](https://t.me/rosanarezende)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rosanarezende.com@gmail.com)](mailto:rosanarezende.com@gmail.com)
-[![Hotmail Badge](https://img.shields.io/badge/Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rezende_rosana@hotmail.com)](mailto:rezende_rosana@hotmail.com)
 [![about.me](https://img.shields.io/static/v1?label=About.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://about.me/rosanarezende)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rosanarezende_)](https://twitter.com/rosanarezende_)
 
-:octocat: Meu nome é Rosana Rezende, sou desenvolvedora Web Full Stack, apaixonada por tecnologia e programação.
+:octocat:Growth Software Engineering: um pé no desenvolvimento de software e outro em negócios digitais. Foco em construir jornadas do usuário cada vez melhores para que o crescimento do negócio não venha apenas do marketing, mas seja baseado no uso do produto (Product Lead Growth).
 
 </div>
   
 ## Techs :blue_heart: 
   
-  <p align="center">HTML, CSS, JavaScript, <strong>TypeScript</strong>, Python, Ruby | SQL, Node.js | <strong>React</strong>, Vue, Angular, Rails | e mais.</p>
+  <p align="center">HTML, CSS, JavaScript, TypeScript, <strong>React</strong>, Vue, Angular, Ruby on Rails ...</p>
 
 <!--
 
