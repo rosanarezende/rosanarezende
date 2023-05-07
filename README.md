@@ -7,9 +7,18 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rosanarezende.com@gmail.com)](mailto:rosanarezende.com@gmail.com)
 [![about.me](https://img.shields.io/static/v1?label=About.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://about.me/rosanarezende)
 
-:octocat:Growth Software Engineering: um pé no desenvolvimento de software e outro em negócios digitais. Foco em construir jornadas do usuário cada vez melhores para que o crescimento do negócio não venha apenas do marketing, mas seja baseado no uso do produto (Product Lead Growth).
-
 </div>
+  
+:woman_teacher: <strong>Professora</strong>: realizando o SONHO GRANDE de impactar vidas através da tecnologia. Nada me faz mais feliz.
+
+<br/>
+
+:octocat: <strong>Growth Software Engineering</strong>: um pé no desenvolvimento de software e outro em negócios digitais. <br/>
+Foco em construir jornadas do usuário cada vez melhores para que o crescimento do negócio não venha apenas do marketing, mas seja baseado no uso do produto (Product Lead Growth).
+
+
+  
+
   
 ## Techs :blue_heart: 
   
