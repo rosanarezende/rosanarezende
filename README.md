@@ -23,24 +23,34 @@
 
 Sou **Engenheira de Software e Growth Engineer** com experiência sólida no ecossistema de tecnologia (ex-RD Station). A minha trajetória une a capacidade analítica — baseada na minha formação inicial em **Direito** — com a execução técnica de alto nível no **Front-end** e estratégias de *Product-Led Growth* (PLG).
 
-O meu momento atual é de **profunda imersão em Inteligência Artificial** 🤖
-
 <table>
   <tr>
-    <td width="50%">
+    <td align="center" width="33%" valign="top">
+      <b>⚡ Expertise</b><br/>
+      Frontend + Growth Engineering<br/>
+      <sub>Interseção entre código e impacto no negócio</sub><br />
+      <sub>Ex-RD Station</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>🧠 Foco em IA</b><br/>
+      Pós-graduação em Ciência de Dados e IA<br/> 
+      <sub>Se preparando para a certificação</sub><br />
+      <sub> GCP Generative AI Leader</sub><br/>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <b>🍯 EdTech <a href="http://mundodamel.com/">Mundo da Mel</a></b><br/>
+      Fundadora e engenheira<br/>
+      <sub>Neuroeducação + Montessori</sub><br />
+      <sub>Migrando para arquitetura Composable</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" colspan="3">
       <h3>🤖 Iniciativa Open Source:</h3>
       <p>Diretrizes, arquitetura e boas práticas com LLMs — para escalar produtividade com qualidade e segurança</p>
       <a href="https://github.com/rosanarezende/ai-guidelines">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rosanarezende&repo=ai-guidelines&theme=github_dark&hide_border=true" alt="ai-guidelines" />
       </a>
-    </td>
-    <td width="50%">
-      <h3>⚡Expertise: Frontend + Growth Engineering </h3>
-      <p>Interseção entre código e impacto no negócio</p>
-      <h3>🎯 Foco e Background em IA</h3>
-      <p>Pós em Data Science · Cert. GCP Generative AI Leader</p>
-      <h3>🍯 Side project: EdTech <a href="http://mundodamel.com/">Mundo da Mel</a></h3>
-      <p>Neuroeducação + Montessori · Arquitetura Composable</p>
     </td>
   </tr>
 </table>
