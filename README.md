@@ -1,51 +1,36 @@
-# Rosana Rezende :woman_technologist:
+# Olá! Eu sou a Rosana Rezende 👩🏻‍💻
 
 <div align="center">
-  
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosanarezende/)](https://www.linkedin.com/in/rosanarezende/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)](https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rosanarezende.com@gmail.com)](mailto:rosanarezende.com@gmail.com)
-[![about.me](https://img.shields.io/static/v1?label=About.me&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://about.me/rosanarezende)
+  <p><em>"Aprender para evoluir. Construir para impactar."</em></p>
 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rosanarezende/)](https://www.linkedin.com/in/rosanarezende/)
+  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)](https://api.whatsapp.com/send?phone=5527999672118&text=Olá!)
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:rosanarezende.com@gmail.com)](mailto:rosanarezende.com@gmail.com)
 </div>
-  
-:woman_teacher: <strong>Professora</strong>: realizando o SONHO GRANDE de impactar vidas através da tecnologia. Nada me faz mais feliz.
 
-<br/>
+---
 
-:octocat: <strong>Growth Software Engineering</strong>: um pé no desenvolvimento de software e outro em negócios digitais. <br/>
-Foco em construir jornadas do usuário cada vez melhores para que o crescimento do negócio não venha apenas do marketing, mas seja baseado no uso do produto (Product Lead Growth).
+## 👩🏻‍💻 Sobre mim
 
+Sou Engenheira de Software e Growth Engineer com experiência sólida no ecossistema de tecnologia (ex-RD Station). Minha trajetória é marcada por unir a capacidade analítica — baseada na minha formação inicial em Direito — com a execução técnica de alto nível no Front-end. Nos últimos 5 anos, foquei na interseção entre engenharia de software e estratégias de *Product-Led Growth* (PLG) para construir jornadas de usuário escaláveis, eficientes e que geram impacto real nos negócios.
 
-  
+Meu momento atual é de **profunda imersão e construção na área de Inteligência Artificial**. 
 
-  
-## Techs :blue_heart: 
-  
-  <p align="center">HTML, CSS, JavaScript, TypeScript, <strong>React</strong>, Vue, Angular, Ruby on Rails ...</p>
+- 🤖 **Iniciativa Open Source:** Meu principal projeto hoje para a comunidade é o **[ai-guidelines](https://github.com/rosanarezende/ai-guidelines)**. Acredito que o uso de ferramentas de IA no desenvolvimento de software vai muito além da simples geração de código. Criei este repositório para ser um espaço colaborativo focado em mapear, estruturar diretrizes, e compartilhar boas práticas e estratégias arquiteturais utilizando LLMs. O objetivo é ajudar a mim e a outros desenvolvedores a escalarem a produtividade com qualidade e segurança.
+- 🚀 **Evolução Técnica:** Estou cursando Pós-graduação em Ciência de Dados e Inteligência Artificial (Uninter) e me preparando para a certificação *Google Cloud Leader in Generative AI*. 
+- 📚 **Construindo nos Bastidores:** Fora do mundo corporativo, aplico toda a minha bagagem técnica como fundadora e engenheira por trás da EdTech **Mundo da Mel** (baseada em neuroeducação e Montessori), onde atualmente lidero a migração da plataforma para uma nova arquitetura *Composable* (multi-repositório).
+- 💼 **O que busco:** Oportunidades e desafios (com preferência *part-time* ou assíncronos) que me permitam aliar minha expertise em Front-end e Growth Engineering à adoção inteligente de soluções de IA para resolver problemas complexos.
 
-<!--
+---
 
-  <a href="https://github.com/rosanarezende/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosanarezende&hide=jupyter%20notebook&langs_count=7&layout=compact&hide_rank=true&custom_title=Mais Usadas&card_width=350" />
-  </a>
+## 🛠️ Tech Stack & Ferramentas
 
-[![rosanarezende's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rosanarezende&layout=compact)](https://github.com/rosanarezende/github-readme-stats)
--->
-
-
-<!--
-
-**rosanarezende/rosanarezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-00A67E?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
