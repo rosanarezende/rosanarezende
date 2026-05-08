@@ -21,7 +21,7 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-Sou **Engenheira de Software e Growth Engineer** com experiência sólida no ecossistema de tecnologia (ex-RD Station). A minha trajetória une a capacidade analítica — baseada na minha formação inicial em **Direito** — com a execução técnica de alto nível no **Front-end** e estratégias de *Product-Led Growth* (PLG).
+**Engenheira de Software e Growth Engineer** com experiência sólida no ecossistema de tecnologia (ex-RD Station). Minha trajetória une a capacidade analítica — baseada na minha formação inicial em **Direito** — com a execução técnica de alto nível no **Front-end** e estratégias de *Product-Led Growth* (PLG).
 
 <table>
   <tr>
@@ -63,12 +63,6 @@ Sou **Engenheira de Software e Growth Engineer** com experiência sólida no eco
 
 ---
 
-
-
-> 💼 **Buscando:** oportunidades *part-time* ou assíncronas em Frontend + AI/Growth Engineering
-
----
-
 ## 🛠️ Tech Stack
 
 **Frontend & Growth**
@@ -85,18 +79,6 @@ Sou **Engenheira de Software e Growth Engineer** com experiência sólida no eco
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/Generative_AI-00A67E?style=flat-square&logo=openai&logoColor=white)
 ![Data_Science](https://img.shields.io/badge/Data_Science-FF6F00?style=flat-square&logo=google&logoColor=white)
-
----
-
-## 📊 Atividade e Estatísticas
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rosanarezende&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff)](https://git.io/streak-stats)
-
-</div>
-
-<br>
 
 ---
 
