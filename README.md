@@ -46,15 +46,24 @@ Sou **Engenheira de Software e Growth Engineer** com experiência sólida no eco
   </tr>
   <tr>
     <td align="center" valign="top" colspan="3">
-      <h3>🤖 Iniciativa Open Source:</h3>
+      <h3>🤖 Iniciativa Open Source: ai-guidelines</h3>
       <p>Diretrizes, arquitetura e boas práticas com LLMs — para escalar produtividade com qualidade e segurança</p>
       <a href="https://github.com/rosanarezende/ai-guidelines">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rosanarezende&repo=ai-guidelines&theme=github_dark&hide_border=true" alt="ai-guidelines" />
+        <img src="https://raw.githubusercontent.com/rosanarezende/ai-guidelines/main/docs/assets/ai-guidelines-flow.png" alt="ai-guidelines — ciclo de governança AI-driven, do backlog ao valor entregue" width="600">
       </a>
+      <p align="center">
+        <a href="https://www.npmjs.com/package/ai-guidelines"><img src="https://img.shields.io/npm/v/ai-guidelines.svg" alt="npm version"></a>
+        <a href="LICENSE"><img src="https://img.shields.io/npm/l/ai-guidelines.svg" alt="license"></a>
+        <img src="https://img.shields.io/node/v/ai-guidelines.svg" alt="node engine">
+      </p>
     </td>
   </tr>
 </table>
 <br />
+
+---
+
+
 
 > 💼 **Buscando:** oportunidades *part-time* ou assíncronas em Frontend + AI/Growth Engineering
 
